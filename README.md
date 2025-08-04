@@ -1,6 +1,3 @@
-# Backend Engineering Lessons
-
-A curated list of backend engineering topics in structured order, based on [this YouTube playlist](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1).
 
 # Backend Engineering Lessons
 
