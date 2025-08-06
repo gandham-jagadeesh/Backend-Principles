@@ -11,3 +11,4 @@ Based on the [Backend from first principles](https://www.youtube.com/playlist?li
 6. [What is Routing in Backend? How Requests Find Their Destination](lecture6.md)  
 7. [Serialization and Deserialization for backend engineers](lecture7.md)  
 8. [Authentication and authorization for backend engineers](lecture8.md)
+9. [Validations and Transformations](lecture9.md)
