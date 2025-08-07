@@ -12,3 +12,4 @@ Based on the [Backend from first principles](https://www.youtube.com/playlist?li
 7. [Serialization and Deserialization for backend engineers](lecture7.md)  
 8. [Authentication and authorization for backend engineers](lecture8.md)
 9. [Validations and Transformations](lecture9.md)
+10. [Handlers, Services, Repositories, Middlewares, Controllers, Request Context](lecture10.md)
